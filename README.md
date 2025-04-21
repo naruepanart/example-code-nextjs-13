@@ -1,4 +1,4 @@
-# Example NextJS Version 13
+# Example code nextjs
 
 Next.js offers four different rendering methods:
 
